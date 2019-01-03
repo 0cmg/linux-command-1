@@ -10,7 +10,7 @@ ar
 ### 语法  
 
 ```
-ab(选项)(参数)
+ar(选项)(参数)
 Usage: ar [emulation options] [-]{dmpqrstx}[abcDfilMNoPsSTuvV] [--plugin <name>] [member-name] [count] archive-file file...
        ar -M [<mri-脚本]
 ```
